@@ -1,0 +1,16 @@
+$ git config --global user.name"shubham69"
+$ git config --global user.email"shubhamsutar5456@gmail.com"
+$ git init
+$ git add .
+$ git commit -m "Initial Commit"
+$ git status
+$ git remote add origin https://github.com/ShubhamS69/gitexp1.git
+$ git push origin master
+$ C:/windows/notepad hello
+$ git status
+$ git add .
+$ git commit -m "changes"
+$ git status
+$ git remote add origin https://github.com/ShubhamS69/gitexp1
+$ git pull origin master
+
